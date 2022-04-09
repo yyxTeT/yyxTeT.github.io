@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yyxTeT.github.io/categories/</loc>
+    <loc>http://yyxTeT.github.io/posts/</loc>
+    <lastmod>2022-04-09T15:35:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yyxTeT.github.io/tags/</loc>
+    <loc>http://yyxTeT.github.io/posts/quickstart/</loc>
+    <lastmod>2022-04-09T15:35:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yyxTeT.github.io/</loc>
+    <loc>http://yyxTeT.github.io/</loc>
+    <lastmod>2022-04-09T15:35:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yyxTeT.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://yyxTeT.github.io/tags/</loc>
   </url>
   
 </urlset>
